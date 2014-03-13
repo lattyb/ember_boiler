@@ -11,3 +11,9 @@ var posts = [{
 }]
 
 $(document).foundation();
+
+var mainIMage {};
+
+mainImage.background = "";
+
+mainImage.
